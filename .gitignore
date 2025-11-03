@@ -1,0 +1,31 @@
+# Node dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build outputs
+dist/
+build/
+out/
+
+# Test coverage
+coverage/
+
+# Framework caches
+.next/
+.nuxt/
+.svelte-kit/
+.vite/
+.cache/
+
+# Package manager caches and logs
+pnpm-debug.log*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.DS_Store
