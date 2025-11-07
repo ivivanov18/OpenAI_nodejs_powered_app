@@ -12,10 +12,16 @@
     "type": "module",
     "dependencies": {
         "@langchain/classic": "^1.0.1",
-        "@langchain/core": "^1.0.2",
+        "@langchain/community": "^1.0.0",
+        "@langchain/core": "^1.0.3",
         "@langchain/openai": "^1.0.0",
-        "dotenv": "^17.2.3",
-        "langchain": "^1.0.2",
-        "openai": "^6.7.0"
+        "dotenv": "16.4.5",
+        "install": "^0.13.0",
+        "langchain": "^1.0.3",
+        "npm": "^11.6.2",
+        "openai": "^6.7.0",
+        "pdf-parse": "1.1.1",
+        "youtube-transcript": "^1.2.1",
+        "youtubei.js": "^16.0.1"
     }
 }
